@@ -30,7 +30,7 @@
 	
 	</form>
 // button to registration page
-	<form action="RegistrationForm.php">
+	<form action="Registration-Form.php">
 			<input type="submit" name="SignUp" value="SignUp"> 
 	
 	</form> 
